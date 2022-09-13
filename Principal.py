@@ -18,7 +18,7 @@ while opcion != "27":
         time.sleep(1)
     elif opcion== "2":
         os.system("cls")
-        Nombre = "Bryan Piedra"
+        Nombre = "Javier"
         print (Nombre) 
         edad=25
         print (edad)
